@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "jjj "
+//description: "jjj "
 header-img: "img/green.jpg"
 ---
 
